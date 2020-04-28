@@ -1,3 +1,3 @@
-logger.error("HELLO: " + (System.getenv("MAVEN_PASS").equals("HelloWorld")))`
+logger.error("HELLO: " + (System.getenv("MAVEN_PASS").equals("HelloWorld")))
 task dumpEnv() {
 }
